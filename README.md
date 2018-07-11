@@ -1,7 +1,7 @@
 # Transportation Networks Datasets
 Each data set is provided "AS IS", without any implied warranty of suitability for any particular use. 
 The data sets are made available for research purposes only. 
-If you use a data set in your research, please remember to include a reference to the relevant papers.
+If you use a data set in your research, please remember to include a reference to the relevant paper.
 
 ### Trains_UK_dataset.zip
 
