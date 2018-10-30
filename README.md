@@ -20,4 +20,5 @@ The dataset is obtained from the Traveline Open Data (http://www.travelinedata.o
 
 If you use one of these datasets for your work, you should cite the paper:
 
-- Andrea Santoro, Vito Latora, Giuseppe Nicosia, Vincenzo Nicosia, Pareto optimality in multilayer network growth, arXiv:1710.01068 (2017) (Open Access)
+- Andrea Santoro, Vito Latora, Giuseppe Nicosia, Vincenzo Nicosia, Pareto optimality in multilayer network growth, 
+Phys. Rev. Lett. 121, 128302 (2018).
